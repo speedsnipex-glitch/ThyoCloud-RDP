@@ -13,9 +13,9 @@ on:
           - windows-2025
           - windows-2022
       userEmail:
-        description: 'Email yang terdaftar di Web ThyoCloud'
+        description: 'speedsnipex@gmail.com'
         required: true
-      customUsername:
+      customUsername: 'ucoklucu'
         description: 'Username RDP (Opsional - Default: thyocloud)'
         required: false
         default: 'thyocloud'
