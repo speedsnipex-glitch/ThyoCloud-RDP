@@ -15,7 +15,7 @@ on:
       userEmail:
         description: 'Email yang terdaftar di Web ThyoCloud'
         required: true
-      customUsername:
+      customUsername: 'udinkasep'
         description: 'Username RDP (Opsional - Default: thyocloud)'
         required: false
         default: 'thyocloud'
